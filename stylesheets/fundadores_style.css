@@ -1,0 +1,33 @@
+@import url(https://fonts.googleapis.com/css?family=Lora);
+@import url(https://fonts.googleapis.com/css?family=Arimo);
+
+#desenvolvedores{
+    width: 80%;
+    height: 450px;
+    background-color: #2ABB9B; /* 17a589 */
+    margin: auto;
+    box-shadow:0 6px 7px  #049372;
+    
+}
+
+.nome_fundador{
+    width: auto;
+    height: 50px;
+    
+    text-align: center;
+    vertical-align: middle;
+    font-family: 'Arimo';
+
+    
+}
+
+.h2title{
+    font-family: 'Lora';
+    font-size: 44;
+    
+}
+
+.icon_fund:hover{
+    box-shadow: 0 0 10px black;
+    
+}

@@ -1,0 +1,172 @@
+#Titulo_jornal{
+    height: 100px;
+    width: 700px;
+    background: #0e6655;
+    margin:auto;
+    box-shadow: 0 0 5px black;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 100px;
+    
+}
+
+#organizador_noticias{
+    width: 100%;
+    height: auto;
+}
+
+#noticia_headerEnviadas{
+    height: 250px;
+    width: 98%;
+    background-color: rgba(255, 255, 255, 0.70);
+    box-shadow: 2px 2px 5px black;
+    padding-top: 1;
+    margin: auto;
+    
+}
+#noticia_headerEventos{
+    height: 250px;
+    width: 98%;
+    background-color: rgba(255, 255, 255, 0.70);
+    box-shadow: 2px 2px 5px black;
+    padding-top: 1;
+    margin: auto;
+    
+}
+#noticia_headerEstudos{
+    height: 250px;
+    width: 98%;
+    background-color: rgba(255, 255, 255, 0.70);
+    box-shadow: 2px 2px 5px black;
+    padding-top: 1;
+    margin: auto;
+    
+}
+#noticia_headerLazer{
+    height: 250px;
+    width: 98%;
+    background-color: rgba(255, 255, 255, 0.70);
+    box-shadow: 2px 2px 5px black;
+    padding-top: 1;
+    margin: auto;
+    
+}
+#noticia_headerSemAula{
+    height: 250px;
+    width: 98%;
+    background-color: rgba(255, 255, 255, 0.70);
+    box-shadow: 2px 2px 5px black;
+    padding-top: 1;
+    margin: auto;
+    
+}
+
+#texto_noticia{
+    width: 60%;
+    height: auto;
+    
+}
+
+#intro_jornal{
+    width: 42%;
+    height: 440px;
+    position: absolute; 
+    right: 4%; 
+    top: 360;
+    background-image: url(../jornal/pags_noticias/dev_pag/texture_jornal.jpg);
+    box-shadow: 0 0 2px black;
+    
+}
+
+.noticia_imagem{
+    height: 200px;
+    width: 250px;
+    position: absolute;
+    padding-top: 25;
+    left:100;
+    
+}
+
+.titulo_noticia{
+    width: 52%;
+    height: 40px;
+    padding-left: 400;
+    font-family: 'Anton';
+    
+}
+
+.paragraph_noticia{
+    color: black;
+    font-family: 'Raleway';
+    width: 50%;
+    height: 90px;
+    position: absolute;
+    left: 400;
+    padding-top: 35;
+    overflow: auto;
+    font-size: 18;
+}
+
+#Inoticia_header{
+    width: 100%;
+    height: 520px;
+    background-image: url('../jornal/pags_noticias/dev_pag/header7.png');
+    background-size: cover; 
+    padding-top: 1;
+    
+}
+
+.Inoticia_titulo{
+    font-size:54; 
+    font-family: 'Raleway'; 
+    color: white;
+    
+}
+
+.Inoticia_subtitulo{
+    font-family: 'Arimo'; 
+    color: white;
+    
+}
+
+.Inoticia_info{
+    color: white;
+    
+}
+
+.jornal_pregoRightTop{
+    background-image: url(../jornal/pags_noticias/dev_pag/parafuso_jornal.jpg);
+    width: 30px;
+    height: 30px;
+    position: absolute; 
+    right: 25;
+    padding-top: 10;
+    
+}
+.jornal_pregoRightBaixo{
+    background-image: url(../jornal/pags_noticias/dev_pag/parafuso_jornal.jpg);
+    width: 30px;
+    height: 30px;
+    position: absolute; 
+    right: 25;
+    padding-top: 200;
+    
+}
+.jornal_pregoLeftTop{
+    background-image: url(../jornal/pags_noticias/dev_pag/parafuso_jornal.jpg);
+    width: 30px;
+    height: 30px;
+    position: absolute; 
+    left: 25;
+    padding-top: 10;
+    
+}
+.jornal_pregoLeftBaixo{
+    background-image: url(../jornal/pags_noticias/dev_pag/parafuso_jornal.jpg);
+    width: 30px;
+    height: 30px;
+    position: absolute; 
+    left: 25;
+    padding-top: 200; 
+    
+}

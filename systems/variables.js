@@ -1,0 +1,1 @@
+document.getElementById("website_version").innerHTML = 'Copyright 2016 All Rights Reserved - Version 4.1';
